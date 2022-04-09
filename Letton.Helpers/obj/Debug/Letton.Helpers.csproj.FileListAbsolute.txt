@@ -1,0 +1,30 @@
+D:\UTM\anul II\sem.II\TW\Laboratoare\TW_Labs\Letton.Helpers\bin\Debug\Letton.Helpers.dll
+D:\UTM\anul II\sem.II\TW\Laboratoare\TW_Labs\Letton.Helpers\bin\Debug\Letton.Helpers.pdb
+D:\UTM\anul II\sem.II\TW\Laboratoare\TW_Labs\Letton.Helpers\obj\Debug\Letton.Helpers.csproj.AssemblyReference.cache
+D:\UTM\anul II\sem.II\TW\Laboratoare\TW_Labs\Letton.Helpers\obj\Debug\Letton.Helpers.csproj.CoreCompileInputs.cache
+D:\UTM\anul II\sem.II\TW\Laboratoare\TW_Labs\Letton.Helpers\obj\Debug\Letton.Helpers.dll
+D:\UTM\anul II\sem.II\TW\Laboratoare\TW_Labs\Letton.Helpers\obj\Debug\Letton.Helpers.pdb
+D:\UTM\anul II\sem.II\TW\Laboratoare\TW_Labs\LettonShop\Letton.Helpers\bin\Debug\Letton.Helpers.dll.config
+D:\UTM\anul II\sem.II\TW\Laboratoare\TW_Labs\LettonShop\Letton.Helpers\bin\Debug\Letton.Helpers.dll
+D:\UTM\anul II\sem.II\TW\Laboratoare\TW_Labs\LettonShop\Letton.Helpers\bin\Debug\Letton.Helpers.pdb
+D:\UTM\anul II\sem.II\TW\Laboratoare\TW_Labs\LettonShop\Letton.Helpers\bin\Debug\EntityFramework.dll
+D:\UTM\anul II\sem.II\TW\Laboratoare\TW_Labs\LettonShop\Letton.Helpers\bin\Debug\EntityFramework.SqlServer.dll
+D:\UTM\anul II\sem.II\TW\Laboratoare\TW_Labs\LettonShop\Letton.Helpers\bin\Debug\EntityFramework.xml
+D:\UTM\anul II\sem.II\TW\Laboratoare\TW_Labs\LettonShop\Letton.Helpers\bin\Debug\EntityFramework.SqlServer.xml
+D:\UTM\anul II\sem.II\TW\Laboratoare\TW_Labs\LettonShop\Letton.Helpers\obj\Debug\Letton.Helpers.csproj.AssemblyReference.cache
+D:\UTM\anul II\sem.II\TW\Laboratoare\TW_Labs\LettonShop\Letton.Helpers\obj\Debug\Letton.Helpers.csproj.CoreCompileInputs.cache
+D:\UTM\anul II\sem.II\TW\Laboratoare\TW_Labs\LettonShop\Letton.Helpers\obj\Debug\Letton.Helpers.csproj.CopyComplete
+D:\UTM\anul II\sem.II\TW\Laboratoare\TW_Labs\LettonShop\Letton.Helpers\obj\Debug\Letton.Helpers.dll
+D:\UTM\anul II\sem.II\TW\Laboratoare\TW_Labs\LettonShop\Letton.Helpers\obj\Debug\Letton.Helpers.pdb
+F:\LettonShop\Letton.Helpers\bin\Debug\Letton.Helpers.dll.config
+F:\LettonShop\Letton.Helpers\bin\Debug\Letton.Helpers.dll
+F:\LettonShop\Letton.Helpers\bin\Debug\Letton.Helpers.pdb
+F:\LettonShop\Letton.Helpers\bin\Debug\EntityFramework.dll
+F:\LettonShop\Letton.Helpers\bin\Debug\EntityFramework.SqlServer.dll
+F:\LettonShop\Letton.Helpers\bin\Debug\EntityFramework.xml
+F:\LettonShop\Letton.Helpers\bin\Debug\EntityFramework.SqlServer.xml
+F:\LettonShop\Letton.Helpers\obj\Debug\Letton.Helpers.csproj.AssemblyReference.cache
+F:\LettonShop\Letton.Helpers\obj\Debug\Letton.Helpers.csproj.CoreCompileInputs.cache
+F:\LettonShop\Letton.Helpers\obj\Debug\Letton.Helpers.csproj.CopyComplete
+F:\LettonShop\Letton.Helpers\obj\Debug\Letton.Helpers.dll
+F:\LettonShop\Letton.Helpers\obj\Debug\Letton.Helpers.pdb

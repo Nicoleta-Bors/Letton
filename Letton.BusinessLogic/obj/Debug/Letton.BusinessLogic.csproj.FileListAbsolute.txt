@@ -1,0 +1,74 @@
+D:\UTM\anul II\sem.II\TW\Laboratoare\TW_Labs\Letton.BusinessLogic\bin\Debug\Letton.BusinessLogic.dll
+D:\UTM\anul II\sem.II\TW\Laboratoare\TW_Labs\Letton.BusinessLogic\bin\Debug\Letton.BusinessLogic.pdb
+D:\UTM\anul II\sem.II\TW\Laboratoare\TW_Labs\Letton.BusinessLogic\bin\Debug\Letton.Domain.dll
+D:\UTM\anul II\sem.II\TW\Laboratoare\TW_Labs\Letton.BusinessLogic\bin\Debug\Letton.Helpers.dll
+D:\UTM\anul II\sem.II\TW\Laboratoare\TW_Labs\Letton.BusinessLogic\bin\Debug\Letton.Domain.pdb
+D:\UTM\anul II\sem.II\TW\Laboratoare\TW_Labs\Letton.BusinessLogic\bin\Debug\Letton.Helpers.pdb
+D:\UTM\anul II\sem.II\TW\Laboratoare\TW_Labs\Letton.BusinessLogic\obj\Debug\Letton.BusinessLogic.csproj.AssemblyReference.cache
+D:\UTM\anul II\sem.II\TW\Laboratoare\TW_Labs\Letton.BusinessLogic\obj\Debug\Letton.BusinessLogic.csproj.CoreCompileInputs.cache
+D:\UTM\anul II\sem.II\TW\Laboratoare\TW_Labs\Letton.BusinessLogic\obj\Debug\Letton.BusinessLogic.csproj.CopyComplete
+D:\UTM\anul II\sem.II\TW\Laboratoare\TW_Labs\Letton.BusinessLogic\obj\Debug\Letton.BusinessLogic.dll
+D:\UTM\anul II\sem.II\TW\Laboratoare\TW_Labs\Letton.BusinessLogic\obj\Debug\Letton.BusinessLogic.pdb
+D:\UTM\anul II\sem.II\TW\Laboratoare\TW_Labs\LettonShop\Letton.BusinessLogic\bin\Debug\Letton.BusinessLogic.dll.config
+D:\UTM\anul II\sem.II\TW\Laboratoare\TW_Labs\LettonShop\Letton.BusinessLogic\bin\Debug\Letton.BusinessLogic.dll
+D:\UTM\anul II\sem.II\TW\Laboratoare\TW_Labs\LettonShop\Letton.BusinessLogic\bin\Debug\Letton.BusinessLogic.pdb
+D:\UTM\anul II\sem.II\TW\Laboratoare\TW_Labs\LettonShop\Letton.BusinessLogic\bin\Debug\EntityFramework.dll
+D:\UTM\anul II\sem.II\TW\Laboratoare\TW_Labs\LettonShop\Letton.BusinessLogic\bin\Debug\EntityFramework.SqlServer.dll
+D:\UTM\anul II\sem.II\TW\Laboratoare\TW_Labs\LettonShop\Letton.BusinessLogic\bin\Debug\Letton.Domain.dll
+D:\UTM\anul II\sem.II\TW\Laboratoare\TW_Labs\LettonShop\Letton.BusinessLogic\bin\Debug\Letton.Helpers.dll
+D:\UTM\anul II\sem.II\TW\Laboratoare\TW_Labs\LettonShop\Letton.BusinessLogic\bin\Debug\Letton.Domain.pdb
+D:\UTM\anul II\sem.II\TW\Laboratoare\TW_Labs\LettonShop\Letton.BusinessLogic\bin\Debug\Letton.Domain.dll.config
+D:\UTM\anul II\sem.II\TW\Laboratoare\TW_Labs\LettonShop\Letton.BusinessLogic\bin\Debug\Letton.Helpers.pdb
+D:\UTM\anul II\sem.II\TW\Laboratoare\TW_Labs\LettonShop\Letton.BusinessLogic\bin\Debug\Letton.Helpers.dll.config
+D:\UTM\anul II\sem.II\TW\Laboratoare\TW_Labs\LettonShop\Letton.BusinessLogic\bin\Debug\EntityFramework.xml
+D:\UTM\anul II\sem.II\TW\Laboratoare\TW_Labs\LettonShop\Letton.BusinessLogic\bin\Debug\EntityFramework.SqlServer.xml
+D:\UTM\anul II\sem.II\TW\Laboratoare\TW_Labs\LettonShop\Letton.BusinessLogic\obj\Debug\Letton.BusinessLogic.csproj.AssemblyReference.cache
+D:\UTM\anul II\sem.II\TW\Laboratoare\TW_Labs\LettonShop\Letton.BusinessLogic\obj\Debug\Letton.BusinessLogic.csproj.CoreCompileInputs.cache
+D:\UTM\anul II\sem.II\TW\Laboratoare\TW_Labs\LettonShop\Letton.BusinessLogic\obj\Debug\Letton.BusinessLogic.csproj.CopyComplete
+D:\UTM\anul II\sem.II\TW\Laboratoare\TW_Labs\LettonShop\Letton.BusinessLogic\obj\Debug\Letton.BusinessLogic.dll
+D:\UTM\anul II\sem.II\TW\Laboratoare\TW_Labs\LettonShop\Letton.BusinessLogic\obj\Debug\Letton.BusinessLogic.pdb
+D:\UTM\anul II\sem.II\TW\Laboratoare\TW_Labs\LettonShop\Letton.BusinessLogic\bin\Debug\AutoMapper.dll
+D:\UTM\anul II\sem.II\TW\Laboratoare\TW_Labs\LettonShop\Letton.BusinessLogic\bin\Debug\DotNet.Cookies.dll
+D:\UTM\anul II\sem.II\TW\Laboratoare\TW_Labs\LettonShop\Letton.BusinessLogic\bin\Debug\AutoMapper.xml
+F:\LettonShop\Letton.BusinessLogic\bin\Debug\Letton.BusinessLogic.dll.config
+F:\LettonShop\Letton.BusinessLogic\bin\Debug\Letton.BusinessLogic.dll
+F:\LettonShop\Letton.BusinessLogic\bin\Debug\Letton.BusinessLogic.pdb
+F:\LettonShop\Letton.BusinessLogic\bin\Debug\AutoMapper.dll
+F:\LettonShop\Letton.BusinessLogic\bin\Debug\DotNet.Cookies.dll
+F:\LettonShop\Letton.BusinessLogic\bin\Debug\EntityFramework.dll
+F:\LettonShop\Letton.BusinessLogic\bin\Debug\EntityFramework.SqlServer.dll
+F:\LettonShop\Letton.BusinessLogic\bin\Debug\Letton.Domain.dll
+F:\LettonShop\Letton.BusinessLogic\bin\Debug\Letton.Helpers.dll
+F:\LettonShop\Letton.BusinessLogic\bin\Debug\Letton.Domain.pdb
+F:\LettonShop\Letton.BusinessLogic\bin\Debug\Letton.Domain.dll.config
+F:\LettonShop\Letton.BusinessLogic\bin\Debug\Letton.Helpers.pdb
+F:\LettonShop\Letton.BusinessLogic\bin\Debug\Letton.Helpers.dll.config
+F:\LettonShop\Letton.BusinessLogic\bin\Debug\AutoMapper.xml
+F:\LettonShop\Letton.BusinessLogic\bin\Debug\EntityFramework.xml
+F:\LettonShop\Letton.BusinessLogic\bin\Debug\EntityFramework.SqlServer.xml
+F:\LettonShop\Letton.BusinessLogic\obj\Debug\Letton.BusinessLogic.csproj.AssemblyReference.cache
+F:\LettonShop\Letton.BusinessLogic\obj\Debug\Letton.BusinessLogic.csproj.CoreCompileInputs.cache
+F:\LettonShop\Letton.BusinessLogic\obj\Debug\Letton.BusinessLogic.csproj.CopyComplete
+F:\LettonShop\Letton.BusinessLogic\obj\Debug\Letton.BusinessLogic.dll
+F:\LettonShop\Letton.BusinessLogic\obj\Debug\Letton.BusinessLogic.pdb
+E:\LettonShop\Letton.BusinessLogic\bin\Debug\Letton.BusinessLogic.dll.config
+E:\LettonShop\Letton.BusinessLogic\bin\Debug\Letton.BusinessLogic.dll
+E:\LettonShop\Letton.BusinessLogic\bin\Debug\Letton.BusinessLogic.pdb
+E:\LettonShop\Letton.BusinessLogic\bin\Debug\AutoMapper.dll
+E:\LettonShop\Letton.BusinessLogic\bin\Debug\DotNet.Cookies.dll
+E:\LettonShop\Letton.BusinessLogic\bin\Debug\EntityFramework.dll
+E:\LettonShop\Letton.BusinessLogic\bin\Debug\EntityFramework.SqlServer.dll
+E:\LettonShop\Letton.BusinessLogic\bin\Debug\Letton.Domain.dll
+E:\LettonShop\Letton.BusinessLogic\bin\Debug\Letton.Helpers.dll
+E:\LettonShop\Letton.BusinessLogic\bin\Debug\Letton.Domain.pdb
+E:\LettonShop\Letton.BusinessLogic\bin\Debug\Letton.Domain.dll.config
+E:\LettonShop\Letton.BusinessLogic\bin\Debug\Letton.Helpers.pdb
+E:\LettonShop\Letton.BusinessLogic\bin\Debug\Letton.Helpers.dll.config
+E:\LettonShop\Letton.BusinessLogic\bin\Debug\AutoMapper.xml
+E:\LettonShop\Letton.BusinessLogic\bin\Debug\EntityFramework.xml
+E:\LettonShop\Letton.BusinessLogic\bin\Debug\EntityFramework.SqlServer.xml
+E:\LettonShop\Letton.BusinessLogic\obj\Debug\Letton.BusinessLogic.csproj.AssemblyReference.cache
+E:\LettonShop\Letton.BusinessLogic\obj\Debug\Letton.BusinessLogic.csproj.CoreCompileInputs.cache
+E:\LettonShop\Letton.BusinessLogic\obj\Debug\Letton.BusinessLogic.csproj.CopyComplete
+E:\LettonShop\Letton.BusinessLogic\obj\Debug\Letton.BusinessLogic.dll
+E:\LettonShop\Letton.BusinessLogic\obj\Debug\Letton.BusinessLogic.pdb
