@@ -2,10 +2,11 @@
   "ExpandedNodes": [
     "",
     "\\Letton.Web",
+    "\\Letton.Web\\Controllers",
     "\\Letton.Web\\Views",
     "\\Letton.Web\\Views\\Login",
     "\\Letton.Web\\Views\\Shared"
   ],
-  "SelectedNode": "\\Letton.Web\\Views\\Login\\Index.cshtml",
+  "SelectedNode": "\\Letton.Web\\Controllers\\HomeController.cs",
   "PreviewInSolutionExplorer": false
 }
