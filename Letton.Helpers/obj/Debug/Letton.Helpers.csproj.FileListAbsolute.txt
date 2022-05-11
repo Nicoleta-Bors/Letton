@@ -28,3 +28,15 @@ F:\LettonShop\Letton.Helpers\obj\Debug\Letton.Helpers.csproj.CoreCompileInputs.c
 F:\LettonShop\Letton.Helpers\obj\Debug\Letton.Helpers.csproj.CopyComplete
 F:\LettonShop\Letton.Helpers\obj\Debug\Letton.Helpers.dll
 F:\LettonShop\Letton.Helpers\obj\Debug\Letton.Helpers.pdb
+C:\Users\Kostea\Desktop\LettonShop\LettonShop\Letton.Helpers\bin\Debug\Letton.Helpers.dll.config
+C:\Users\Kostea\Desktop\LettonShop\LettonShop\Letton.Helpers\bin\Debug\Letton.Helpers.dll
+C:\Users\Kostea\Desktop\LettonShop\LettonShop\Letton.Helpers\bin\Debug\Letton.Helpers.pdb
+C:\Users\Kostea\Desktop\LettonShop\LettonShop\Letton.Helpers\bin\Debug\EntityFramework.dll
+C:\Users\Kostea\Desktop\LettonShop\LettonShop\Letton.Helpers\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Kostea\Desktop\LettonShop\LettonShop\Letton.Helpers\bin\Debug\EntityFramework.xml
+C:\Users\Kostea\Desktop\LettonShop\LettonShop\Letton.Helpers\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Kostea\Desktop\LettonShop\LettonShop\Letton.Helpers\obj\Debug\Letton.Helpers.csproj.AssemblyReference.cache
+C:\Users\Kostea\Desktop\LettonShop\LettonShop\Letton.Helpers\obj\Debug\Letton.Helpers.csproj.CoreCompileInputs.cache
+C:\Users\Kostea\Desktop\LettonShop\LettonShop\Letton.Helpers\obj\Debug\Letton.Helpers.csproj.CopyComplete
+C:\Users\Kostea\Desktop\LettonShop\LettonShop\Letton.Helpers\obj\Debug\Letton.Helpers.dll
+C:\Users\Kostea\Desktop\LettonShop\LettonShop\Letton.Helpers\obj\Debug\Letton.Helpers.pdb

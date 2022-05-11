@@ -12,11 +12,11 @@ namespace Letton.Domain.Entities.User
      {
           [Key]
           [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
-          public int SessionId { get; set; }
+          public int Id { get; set; }
 
           [Required]
           [StringLength(30)]
-          public string Username { get; set; }
+          public string UserEmail { get; set; }
 
           [Required]
           public string CookieString { get; set; }

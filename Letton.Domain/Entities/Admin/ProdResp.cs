@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Letton.Domain.Entities.User
+namespace Letton.Domain.Entities.Admin
 {
-     public class ULoginResp
+     public class ProdResp
      {
           public bool Status { get; set; }
           public string StatusMsg { get; set; }

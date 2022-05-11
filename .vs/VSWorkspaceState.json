@@ -1,12 +1,15 @@
 {
   "ExpandedNodes": [
     "",
+    "\\Letton.BusinessLogic",
+    "\\Letton.BusinessLogic\\Core",
     "\\Letton.Web",
     "\\Letton.Web\\Controllers",
     "\\Letton.Web\\Views",
     "\\Letton.Web\\Views\\Login",
-    "\\Letton.Web\\Views\\Shared"
+    "\\Letton.Web\\Views\\Shared",
+    "\\Letton.Web\\Views\\Shop"
   ],
-  "SelectedNode": "\\Letton.Web\\Controllers\\HomeController.cs",
+  "SelectedNode": "\\Letton.Web\\Views\\Shop\\Index.cshtml",
   "PreviewInSolutionExplorer": false
 }
