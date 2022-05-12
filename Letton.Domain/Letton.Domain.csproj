@@ -50,6 +50,7 @@
   <ItemGroup>
     <Compile Include="Entities\Product\AddProductData.cs" />
     <Compile Include="Entities\Product\AddProductResp.cs" />
+    <Compile Include="Entities\Product\ProductDetailData.cs" />
     <Compile Include="Entities\Product\DeleteProductResp.cs" />
     <Compile Include="Entities\Product\ProductsDbTable.cs" />
     <Compile Include="Entities\Product\UpdateProductData.cs" />

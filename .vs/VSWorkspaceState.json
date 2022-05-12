@@ -6,10 +6,11 @@
     "\\Letton.Web",
     "\\Letton.Web\\Controllers",
     "\\Letton.Web\\Views",
+    "\\Letton.Web\\Views\\Error",
     "\\Letton.Web\\Views\\Login",
     "\\Letton.Web\\Views\\Shared",
     "\\Letton.Web\\Views\\Shop"
   ],
-  "SelectedNode": "\\Letton.Web\\Views\\Shop\\Index.cshtml",
+  "SelectedNode": "\\Letton.Web\\Views\\Error\\Error500.cshtml",
   "PreviewInSolutionExplorer": false
 }
